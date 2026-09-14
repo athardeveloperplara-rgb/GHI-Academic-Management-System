@@ -1,0 +1,7 @@
+{
+  "name": "Grand Hospitality",
+  "description": "Sistem Administrasi Akademik & Analitik LKP Grand Hospitality Institute",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
